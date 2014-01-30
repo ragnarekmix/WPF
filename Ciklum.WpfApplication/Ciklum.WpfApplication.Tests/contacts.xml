@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contacts>
+  <contact lastName="Mihail"   firstName="Podobivsky"      phoneNumber="0669282531" email="ragnarek.mix@gmail.com"/>
+  <contact lastName="Joe"      firstName="O'Raily"         phoneNumber="0669282531" email="Joe@company.com"       />
+  <contact lastName="John"     firstName="Newman"          phoneNumber="0669282531" email="John@company.com"      />
+  <contact lastName="Carl"     firstName="Pears"           phoneNumber="0669282531" email="Carl@company.com"      />
+</contacts>

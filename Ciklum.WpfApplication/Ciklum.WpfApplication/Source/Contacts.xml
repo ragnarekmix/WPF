@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<contacts>
+  <contact lastName="Mihail"   firstName="Podobivsky"      phoneNumber="0669282531" email="ragnarek.mix@gmail.com"/>
+  <contact lastName="Joe"      firstName="O'Raily"         phoneNumber="0669282531" email="Joe@company.com"       />
+  <contact lastName="John"     firstName="Newman"          phoneNumber="0669282531" email="John@company.com"      />
+  <contact lastName="Carl"     firstName="Pears"           phoneNumber="0669282531" email="Carl@company.com"      />
+  <contact lastName="Kostas"   firstName="Konstantinydies" phoneNumber="0669282531" email="Kostas@company.com"    />
+  <contact lastName="Pol"      firstName="Reave"           phoneNumber="0669282531" email="Pol@company.com"       />
+  <contact lastName="Teem"     firstName="Coock"           phoneNumber="0669282531" email="Teem@company.com"      />
+  <contact lastName="Adrian"   firstName="Ionita"          phoneNumber="0669282531" email="Adrian@company.com"    />
+  <contact lastName="Brian"    firstName="Flynn"           phoneNumber="0669282531" email="Brian@company.com"     />
+  <contact lastName="Dan"      firstName="FItcner"         phoneNumber="0669282531" email="Dan@company.com"       />
+  <contact lastName="Josh"     firstName="Coleman"         phoneNumber="0669282531" email="Josh@company.com"      />
+  <contact lastName="Ivan"     firstName="Harkins"         phoneNumber="0669282531" email="Ivan@company.com"      />
+  <contact lastName="Dave"     firstName="Anderson"        phoneNumber="0669282531" email="Dave@company.com"      />
+</contacts>
